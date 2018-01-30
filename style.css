@@ -1,0 +1,44 @@
+body	{
+	background: url(bg.jpg) no-repeat center fixed;
+	background-color: blue;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+	font-family: 'Play', sans-serif;
+}
+
+h2 {
+	color: white;
+	font-size: 20px;
+	margin-top: 0;
+	font-weight: bolder;
+}
+
+.bio {
+	color: yellow;
+	font-size: 14px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+}
+
+.me {
+	height: 150px;
+	width: 150px;
+	border-radius: 100%;	
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+hr {
+	width: 90px;
+	background-color: white;
+}
